@@ -11,6 +11,7 @@ Sigue estos pasos para configurar el entorno y preparar el proyecto:
 2. **Script SQL:** 
    - Importar el script **db/movies.sql** dentro de la base de datos **"products"**.
    - Ejecutar el script para cargar y configurar la estructura y los datos.
+   - Modificar en el archivo app.py el MYSQL_USER y MYSQL_PASSWORD campo de configuracion segun su usuario.
 
 3. **Instalar `virtualenv`**:
    Ejecuta el siguiente comando para instalar la herramienta que te permitirá crear entornos virtuales:
